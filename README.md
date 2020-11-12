@@ -2,10 +2,6 @@
 
 This repository shows how to use the nearest neighbor heuristic as a solution for Robot Tour Optimization (RTO).
 
-Robot Tour Optimisation
-
-This repository shows how to use the nearest neighbor heuristic as a solution for Robot Tour Optimization (RTO).
-
 This algorithm was created by:
 
     Author: sergio Beleño
