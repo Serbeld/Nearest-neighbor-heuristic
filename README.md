@@ -4,7 +4,7 @@ This repository shows how to use the nearest neighbor heuristic as a solution fo
 
 This algorithm was created by:
 
-    Author: sergio Beleño
+    Author: Sergio Beleño
     Date: 2020-11-11
     
 Some references present for the development of this algorithm were taken from:
